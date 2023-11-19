@@ -14,6 +14,7 @@ $git clone https://github(*)com/Rull-XD/Spam Wa
 (*) Ganti (.)
 
 #RUN
+
  $cd Spam Wa
  
  $pip install -r assets/requirements.txt
