@@ -9,7 +9,7 @@ $pkg install python
 
 $pkg install git
 
-$git clone https://github(*)com/Rull-XD/Spam Wa
+$git clone https://github(*)com/Rull-XD/Spam-Wa
 
 (*) Ganti (.)
 
