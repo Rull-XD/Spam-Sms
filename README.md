@@ -1,4 +1,4 @@
-# Spam-Sms-Call-Wa
+# Spam Wa
 Spam WhatsApp,Sms &amp; Call
 
 #INSTAL
@@ -9,12 +9,12 @@ $pkg install python
 
 $pkg install git
 
-$git clone https://github(*)com/Rull-XD/Spam-Sms-Call-Wa
+$git clone https://github(*)com/Rull-XD/Spam Wa
 
 (*) Ganti (.)
 
 #RUN
- $cd Spam-Sms-Call-Wa
+ $cd Spam Wa
  
  $pip install -r assets/requirements.txt
  
