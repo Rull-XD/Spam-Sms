@@ -9,13 +9,13 @@ $pkg install python
 
 $pkg install git
 
-$git clone https://github(*)com/Rull-XD/Spam-Wa
+$git clone https://github(*)com/Rull-XD/Spam-Sms
 
 (*) Ganti (.)
 
 #RUN
 
- $cd Spam Wa
+ $cd Spam-Sms
  
  $pip install -r assets/requirements.txt
  
